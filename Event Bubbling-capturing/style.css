@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.parent {
+    height: 400px;
+    width: 400px;
+    background-color: yellow;
+}
+
+.child{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.grandchild{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+
