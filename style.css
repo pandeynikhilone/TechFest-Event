@@ -1,0 +1,67 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); */
+
+@font-face {
+    font-family: Hack Regular;
+    src: url(../assets/fonts/Hack-Regular.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+}
+
+.navigation-bar-2 {
+    /* position: relative; */
+    width: 49%;
+    height: 58%;
+    background-color: #084730;
+    clip-path: polygon(0 0, 100% 0, 94% 16%, 6% 16%);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    display: flex;
+    justify-content: center;
+}
+
+[class^="link-"] {
+    top: 25px;
+    position: relative;
+    color: #fff;
+    font-family: Hack Regular;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 124.5%;
+    letter-spacing: 2.85px;
+    text-transform: capitalize;
+    text-decoration: none;
+    padding: 0px 30px 0px 30px;
+    color: rgba(0, 0, 0, 0.35);
+}
+
+.link-1 {
+    color: #94CAB6;
+}
+
+.veiw-Register {
+    width: 100%;
+    height: 100vh;
+    background-color: #111;
+    display: flex;
+    justify-content: center;
+    background-image: url(../assets/image/Group\ 41.svg);
+}
+
+.navigation-bar-1 {
+    width: 49.1%;
+    height: 59%;
+    background-color: #0C724E;
+    clip-path: polygon(0 0, 100% 0, 94% 16%, 6% 16%);
+    position: absolute;
+}
