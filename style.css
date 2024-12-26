@@ -174,7 +174,7 @@ select {
     .form {
         width: 80%;
         /* height: 75vh; */
-        padding: 2vw 2vw 1vw 4vw;
+        padding: 27px 4vw 1vw 5.5vw;
     }
     .user-register {
         margin: 18px 0px 0px 0px;
@@ -195,7 +195,7 @@ select {
     .form {
         width: 89%;
         /* height: 73vh; */
-        padding: 2vw 4vw 1vw 5.5vw;
+        padding: 27px 4vw 1vw 5.5vw;
         margin: 2vw 2vw 3vw 2vw;
     }
     .register-text {font-size: 5vw;}
@@ -209,7 +209,7 @@ select {
     .form {
         width: 89%;
         /* height: 73vh; */
-        padding: 2vw 4vw 1vw 5.5vw;
+        padding: 27px 4vw 1vw 5.5vw;
         margin: 2vw 2vw 3vw 2vw;
     }
     .register-text {font-size: 5vw;}
