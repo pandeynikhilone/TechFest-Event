@@ -73,6 +73,9 @@ body {background:var(--primary-color) url(./assets/images/background.svg) no-rep
     font-size: 2vw;
     margin-bottom: 14px;
     letter-spacing: 2.85px;
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
 }
 
 .teachFest--image {display: none;}
@@ -126,7 +129,7 @@ select {
     height: 49.882px;
     background-color: var(--background-color-1);
     border-radius: 21px;
-    margin: 1vh 0px 0px 0px;
+    margin: 2vh 0px 12px 0px;
     border: none;
 }
 
