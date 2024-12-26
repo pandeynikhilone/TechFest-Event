@@ -216,3 +216,17 @@ select {
     .register-text {font-size: 5vw;}
     .teachFest--image {display: block; width: 124px;}
 }
+
+@media (max-width: 320px) {
+    [class^="navigation--link-"], a:first-child {
+        font-size: 12.5px;
+    }
+    .form {
+        width: 89%;
+        height: 73vh;
+        padding: 2vw 4vw 0vw 5.5vw;
+        margin: 2vw 2vw 3vw 2vw;
+    }
+    .register-text {font-size: 5vw;}
+    .teachFest--image {display: block; width: 124px;}
+}
