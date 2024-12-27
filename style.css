@@ -12,10 +12,8 @@
     --font-family-R: 'Hack Regular';
     --font-family-B: 'Hack Regular B';
     --primary-color: #111;
-    --background-color-1: #084730;
     --background-color-2: rgba(86, 142, 95, 0.20);
     --link-text-color: #94CAB6;
-    --navigation-bg-color: #0c964d;
     --border-color: #20d374;
     --navigation-color: #0C724E;
     --selected-text-color: #94CAB6;
@@ -59,7 +57,6 @@ body {background:var(--primary-color) url(./assets/images/background.svg) no-rep
     border-radius: 33px;
     padding: 2vw 2vw 1vw 2vw;
     margin: 2vw 2vw;
-    /* height: 76vh; */
     display: inherit;
     flex-direction: column;
     align-items: center;
@@ -157,7 +154,6 @@ select {
     }
     .form {
         width: 44%;
-        /* height: 74vh; */
     }
 }
 
@@ -173,7 +169,6 @@ select {
     }
     .form {
         width: 80%;
-        /* height: 75vh; */
         padding: 27px 4vw 1vw 5.5vw;
     }
     .user-register {
@@ -194,7 +189,6 @@ select {
     }
     .form {
         width: 89%;
-        /* height: 73vh; */
         padding: 27px 4vw 1vw 5.5vw;
         margin: 2vw 2vw 3vw 2vw;
     }
@@ -208,7 +202,6 @@ select {
     }
     .form {
         width: 89%;
-        /* height: 73vh; */
         padding: 27px 4vw 1vw 5.5vw;
         margin: 2vw 2vw 3vw 2vw;
     }
