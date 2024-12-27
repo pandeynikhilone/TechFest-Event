@@ -1,11 +1,9 @@
-body {
-    font-family: var(--font-family-R);
-}
+
 
 .eventCard--heading {
     margin: 85px 0px 50px 0px;
     color: var(--selected-text-color);
-    /* font-family: var(--font-family-R); */
+    font-family: var(--font-family-R);
     font-size: 33px;
     font-weight: 700;
     line-height: 124.5%; /* 53.535px */
@@ -20,11 +18,11 @@ body {
 }
 
 .card-img-top {
-    width: 106px;
-    height: 82px;
+    width: 75px;
 }
 
 .event--name {
+    font-family: var(--font-family-R);
     color: var(--selected-text-color);
     font-size: 25px;
     font-weight: 700;
