@@ -122,16 +122,21 @@ select {
     background-color: var(--background-color-2); 
 }
 
-.save-btn {
+/* .save-btn {
     width: 101.577px;
     height: 49.882px;
     background-color: var(--background-color-1);
     border-radius: 21px;
     margin: 2vh 0px 12px 0px;
     border: none;
-}
+} */
 
-.save-btn a{
+.form a:last-child, .custom--button {
+    padding: 19px 24px 16px 24px;
+    background-color: var(--background-color-1);
+    border-radius: 21px;
+    margin: 2vh 0px 12px 0px;
+    border: none;
     text-decoration: none;
     color: var(--link-text-color);
     font-weight: 600;
